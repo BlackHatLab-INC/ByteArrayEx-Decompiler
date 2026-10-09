@@ -67,7 +67,7 @@ Based on the original ByteArray plugin by n00b.
 3. Restart dnSpyEx.
 4. Select **ByteArrayEx Decompiler** from the language dropdown of any method view.
 
-> Requires dnSpyEx (6.6+ / .NET 10 builds). Windows x64. No extra dependencies.
+> Requires - dnSpyEx on Windows (AnyCPU — works on x86 and x64). No extra dependencies.
 
 ---
 
